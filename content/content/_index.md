@@ -2,9 +2,9 @@
 title: Readings, lectures, and videos
 menu:
   content:
-    parent: Ovewview
+    parent: Overview
     weight: 1
-type: docs
+type: page
 weight: 1
 ---
 
