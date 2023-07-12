@@ -1,5 +1,5 @@
 ---
-title: 📊 Frozen
+title: 📊 冰湖环境Frozen
 linkTitle: Frozen Lake Path Planning
 summary: frozen.
 date: '2023-07-12'
