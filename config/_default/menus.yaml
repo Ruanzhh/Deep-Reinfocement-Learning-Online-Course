@@ -24,3 +24,12 @@ main:
   - name: Contact
     PageRef: contact/index.md
     weight: 60
+  - name: Content
+    PageRef: content/_index.md
+    weight: 70
+
+content:
+  - name: Overview
+    weight: 1
+  - name: Course Content
+    weight: 2
