@@ -1,11 +1,14 @@
 ---
-title: Readings, lectures, and videos
-menu:
-  content:
-    parent: Overview
-    weight: 1
+title: 📚 Courses
 type: page
-weight: 1
+tags:
+  - preface
+
+view: compact
+
+banner:
+  caption: ''
+  image: ''
 ---
 
-xxx
+Explore our courses below and expand your knowledge!
