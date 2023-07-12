@@ -1,26 +1,27 @@
 ---
-title: 📊 冰湖环境Frozen
-linkTitle: Frozen Lake Path Planning
+title: 📊 冰湖环境路径规划
+linkTitle: 动态规划
 summary: frozen.
 date: '2023-07-12'
 type: book
 tags:
-  - current
+  - Dynamic Programming
 ---
 
 {{< figure src="featured.jpg" >}}
 
 {{< toc hide_on="xl" >}}
 
-## What you will learn
+## 在这节课中我们将会学习
 
-- Fundamental {{<hl>}}Python programming skills{{</hl>}}
-- {{<hl>}}Statistical concepts{{</hl>}} and how to apply them in practice
-- Gain experience with the {{<hl>}}Scikit{{</hl>}}, including data visualization with {{<hl>}}Plotly{{</hl>}} and data wrangling with {{<hl>}}Pandas{{</hl>}}
+- 马尔可夫决策过程
+- 基于动态规划的路径规划
+- 基于蒙特卡洛的路径规划
+- 基于时序差分的路径规划
 
-## Program overview
+## 项目概述
 
-The demand for skilled data science practitioners is rapidly growing. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi.
+在这个项目中，我们将真正开始强化学习之路。以强化学习的基石——马尔可夫决策过程为起点，我们将逐步学习掌握以动态规划、蒙特卡洛、时序差分为代表的一系列基础算法，深入理解强化学习的核心思想。项目最后，我们会在著名的开源环境Gym上，一步一步实现以上算法，完成本项目最终目标——冰湖路径规划
 
 ## Courses in this program
 
